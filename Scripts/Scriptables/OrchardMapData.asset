@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc36ede4386bc684b97cd199c848e34c, type: 3}
+  m_Name: OrchardMapData
+  m_EditorClassIdentifier: 
+  BiomeSize: 2
+  BiomePool:
+  - BoardRating: 0
+    Boards:
+    - {fileID: 4440046081790077488, guid: eb957cab83fc33f4dac5052e88f077ad, type: 3}
+    - {fileID: 4440046081790077488, guid: eb957cab83fc33f4dac5052e88f077ad, type: 3}
+    - {fileID: 4440046081790077488, guid: eb957cab83fc33f4dac5052e88f077ad, type: 3}
+  - BoardRating: 1
+    Boards:
+    - {fileID: 4440046081790077488, guid: eb957cab83fc33f4dac5052e88f077ad, type: 3}
+    - {fileID: 4440046081790077488, guid: eb957cab83fc33f4dac5052e88f077ad, type: 3}
+    - {fileID: 8772012830681100133, guid: 2e574a3ccdfe8a74984a93614e7cb79b, type: 3}
+  - BoardRating: 2
+    Boards:
+    - {fileID: 8772012830681100133, guid: 2e574a3ccdfe8a74984a93614e7cb79b, type: 3}
+    - {fileID: 8772012830681100133, guid: 2e574a3ccdfe8a74984a93614e7cb79b, type: 3}
+    - {fileID: 789337597131750584, guid: 2f063ba7842658c458b9c0bf48deab01, type: 3}
+  RapturePool:
+  - {fileID: 1989450730982451180, guid: 92822f106f701ca4a9e497a84b1a386a, type: 3}
+  BossBiome: {fileID: 4861632658488595759, guid: 545210aaf0b7d98458b78babacd5949d,
+    type: 3}

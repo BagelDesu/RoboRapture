@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc36ede4386bc684b97cd199c848e34c, type: 3}
+  m_Name: Rapture101_Smooth
+  m_EditorClassIdentifier: 
+  BiomeSize: 0
+  BiomePool: []
+  RapturePool:
+  - {fileID: 4506922394100004164, guid: cbd1318654176724e84c2d3344db902e, type: 3}
+  BossBiome: {fileID: 9133867593710313447, guid: ffedccea4b853d94493cbb7c0165f37f,
+    type: 3}

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d4f2613b48f92147af62f073b902c0c, type: 3}
+  m_Name: GiantBonesDecoration
+  m_EditorClassIdentifier: 
+  OriginalMaterial: {fileID: 2100000, guid: 57ce2f4667d827f41a8c2d78f538ef16, type: 2}
+  SinkBurnMaterial: {fileID: 2100000, guid: 5615add1764e5b140904477bdd0c0fc6, type: 2}
+  DecalMaterial: {fileID: 2100000, guid: a6b0c2285fd25b541b05e21e6807f36f, type: 2}
+  NormalDecal: {fileID: 2800000, guid: fafc32e603bd5494887b332f90a9462f, type: 3}
+  BaseHighlight: {fileID: 2800000, guid: fafc32e603bd5494887b332f90a9462f, type: 3}
+  ActiveHighlight: {fileID: 2800000, guid: fafc32e603bd5494887b332f90a9462f, type: 3}
+  SelectionHighlight: {fileID: 2800000, guid: fafc32e603bd5494887b332f90a9462f, type: 3}
+  BaseAttack: {fileID: 2800000, guid: fafc32e603bd5494887b332f90a9462f, type: 3}
+  ActiveAttack: {fileID: 2800000, guid: fafc32e603bd5494887b332f90a9462f, type: 3}
+  SelectionAttack: {fileID: 2800000, guid: fafc32e603bd5494887b332f90a9462f, type: 3}
+  RaptureDecalHighlight: {fileID: 2800000, guid: fafc32e603bd5494887b332f90a9462f,
+    type: 3}

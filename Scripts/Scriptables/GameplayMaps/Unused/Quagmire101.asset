@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc36ede4386bc684b97cd199c848e34c, type: 3}
+  m_Name: Quagmire101
+  m_EditorClassIdentifier: 
+  BiomeSize: 3
+  BiomePool:
+  - BoardRating: 0
+    Boards:
+    - {fileID: 8037691946819422980, guid: 76c15bba0701b9647b340c1abde206dd, type: 3}
+  - BoardRating: 1
+    Boards:
+    - {fileID: 11679678701645036, guid: c7144393abbf13a4da26910bd1e3eba1, type: 3}
+  - BoardRating: 2
+    Boards:
+    - {fileID: 1824452242172690730, guid: 452c15501895d0c40b0cc4eba67a8eee, type: 3}
+  RapturePool:
+  - {fileID: 3393314975205099753, guid: 5082da915ceccbd4c84d5fb0241fe4e1, type: 3}
+  BossBiome: {fileID: 6292768044342683919, guid: 1d7c1e08b5cadf340bc9ef93b0a21c69,
+    type: 3}

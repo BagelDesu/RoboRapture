@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d4f2613b48f92147af62f073b902c0c, type: 3}
+  m_Name: MountainBaseGlacierDecoration
+  m_EditorClassIdentifier: 
+  OriginalMaterial: {fileID: 2100000, guid: c76aa87befe933643888168f159705e6, type: 2}
+  SinkBurnMaterial: {fileID: 2100000, guid: 5a0ad52c31d9fd84bbf7382d6b4a0fbe, type: 2}
+  DecalMaterial: {fileID: 2100000, guid: a6b0c2285fd25b541b05e21e6807f36f, type: 2}
+  NormalDecal: {fileID: 2800000, guid: fafc32e603bd5494887b332f90a9462f, type: 3}
+  BaseHighlight: {fileID: 2800000, guid: 88b138c5e8fe27a48920f007bb210825, type: 3}
+  ActiveHighlight: {fileID: 2800000, guid: 001dd1cf00c75fd4c83a8dc06a4907b8, type: 3}
+  SelectionHighlight: {fileID: 2800000, guid: f9bb10a3febb02f49a9fc54210a0b150, type: 3}
+  BaseAttack: {fileID: 2800000, guid: f30207267eb5d4b4e8bc865bf75fb11d, type: 3}
+  ActiveAttack: {fileID: 2800000, guid: fab5e7a628e876d41a7ef237907845a1, type: 3}
+  SelectionAttack: {fileID: 2800000, guid: e9158f8d4abefbc4ca4c37321dee95ef, type: 3}
+  RaptureDecalHighlight: {fileID: 2800000, guid: 6b0f196e989c25448b7f8e9c8e5448d0,
+    type: 3}

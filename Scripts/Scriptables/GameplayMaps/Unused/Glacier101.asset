@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc36ede4386bc684b97cd199c848e34c, type: 3}
+  m_Name: Glacier101
+  m_EditorClassIdentifier: 
+  BiomeSize: 3
+  BiomePool:
+  - BoardRating: 0
+    Boards:
+    - {fileID: 6661357695874086178, guid: 1df3c644e8cf8314583bf023c6e515a5, type: 3}
+  - BoardRating: 1
+    Boards:
+    - {fileID: 2374851558898731581, guid: df91d30c882f5cf4baac67cc7cf8c053, type: 3}
+  - BoardRating: 2
+    Boards:
+    - {fileID: 8765369391598999880, guid: 88801b344a8dbd44ca31d36bb7caa287, type: 3}
+  RapturePool:
+  - {fileID: 5336166906167922109, guid: 5374e5e929e93d941809404cbfae8f63, type: 3}
+  BossBiome: {fileID: 9142488476383265921, guid: c8b0b18d2f475b246beb0cc1dd7c3c8f,
+    type: 3}

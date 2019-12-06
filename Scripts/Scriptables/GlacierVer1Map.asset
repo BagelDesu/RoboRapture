@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc36ede4386bc684b97cd199c848e34c, type: 3}
+  m_Name: GlacierVer1Map
+  m_EditorClassIdentifier: 
+  BiomeSize: 4
+  BiomePool:
+  - BoardRating: 0
+    Boards:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+  - BoardRating: 1
+    Boards:
+    - {fileID: 0}
+    - {fileID: 0}
+  - BoardRating: 2
+    Boards:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+  - BoardRating: 2
+    Boards:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+  - BoardRating: 2
+    Boards:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+  RapturePool:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  BossBiome: {fileID: 0}

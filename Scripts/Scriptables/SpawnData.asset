@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cd4d8f437966a849bc59948814c4832, type: 3}
+  m_Name: SpawnData
+  m_EditorClassIdentifier: 
+  MaxWhelpSpawn: 3
+  UnitObjectRelation:
+  - Type: 0
+    UnitPrefab: {fileID: 820249397436340392, guid: bed4449988013b74f81386c185672d46,
+      type: 3}
+  - Type: 1
+    UnitPrefab: {fileID: 4822293371077648452, guid: 4e736feac9c149f48936627850744318,
+      type: 3}
+  - Type: 2
+    UnitPrefab: {fileID: 1840870314123729365, guid: 18ed09df8a3a4174181502a3aca63cfc,
+      type: 3}
+  - Type: 3
+    UnitPrefab: {fileID: 5880858131773940604, guid: 4acb8dcde39a4c647b6457352a166347,
+      type: 3}
+  - Type: 4
+    UnitPrefab: {fileID: 2723875832976881243, guid: 93543158d10d0a440ba96f231116f6d8,
+      type: 3}
+  - Type: 5
+    UnitPrefab: {fileID: 2416854915792223734, guid: 063f657317151cd4a9901fe27fd7a85e,
+      type: 3}
+  - Type: 6
+    UnitPrefab: {fileID: 3103043922896208848, guid: a60db891d22d5a24885af9575782f458,
+      type: 3}
+  - Type: 7
+    UnitPrefab: {fileID: 2416854915792223734, guid: 903d3d57a13634f409a7338fa3f24711,
+      type: 3}
+  - Type: 8
+    UnitPrefab: {fileID: 1786501915113726447, guid: 656d4d68a8c6f8649847ad4dc376ebfa,
+      type: 3}
+  - Type: 9
+    UnitPrefab: {fileID: 1857913168425128323, guid: 2b42d2df29046d6468889b4f26bba220,
+      type: 3}
+  - Type: 10
+    UnitPrefab: {fileID: 6648096686799544508, guid: d3abfea71dfe99b48a1da557d3e99310,
+      type: 3}
+  - Type: 11
+    UnitPrefab: {fileID: 2416854915792223734, guid: ed470b8a300cdd440ab4bd2fa202d1aa,
+      type: 3}
+  - Type: 12
+    UnitPrefab: {fileID: 2416854915792223734, guid: ed470b8a300cdd440ab4bd2fa202d1aa,
+      type: 3}
+  - Type: 13
+    UnitPrefab: {fileID: 1442381649729969863, guid: 0f2e44e02242dfe4c90d98512c4bd1c1,
+      type: 3}
+  UnitPentagramRelation:
+  - Type: 9
+    UnitPrefab: {fileID: 5402326469464142005, guid: e1465b75f895a60449e89499f828c586,
+      type: 3}
+  - Type: 3
+    UnitPrefab: {fileID: 5402326469464142005, guid: c2977b04433488a479878b9de1d5ef1d,
+      type: 3}
+  - Type: 13
+    UnitPrefab: {fileID: 6191624931594935786, guid: b204c545ec1563041afb61a8abcfced8,
+      type: 3}
