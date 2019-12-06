@@ -16,5 +16,10 @@ Source file download link: https://drive.google.com/open?id=1IYp5g2f6akhzG0IVi8Y
 
 Build archive link: https://drive.google.com/open?id=1i-QAJqYhjJo0T-ZYqs9xN6R697dkhRfl
 
+My Role Breakdown:
+
+https://maquinodesign.wordpress.com/robo-rapture/
+
+
 
 Copyright (c) Team House Hippos 2019.
